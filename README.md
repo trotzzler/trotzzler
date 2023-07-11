@@ -8,7 +8,7 @@
 
 <div id="contact">
   <h2>📭 Contact Me</h2>
-  <a href="discord.com/users/1105073207251325028" target="_blank">
+  <a href="https://discord.com/users/1105073207251325028" target="_blank">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
