@@ -2,7 +2,7 @@
 <div id="header">
   <h3>Klaus Trötzzler</h3>
   <p>I'm invested with a great mission, 14/88</p>
-  <img src="https://github.com/trotzzlerborea/trotzzlerborea/assets/138235336/26ed136b-cee9-4e06-a82f-9ab391721b78" height="400px" width="100%" alt="Banner">
+  <img src="https://github.com/trotzzlerborea/trotzzlerborea/assets/138235336/26ed136b-cee9-4e06-a82f-9ab391721b78" height="300px" width="80%" alt="Banner">
 
 </div>
 
