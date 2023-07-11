@@ -15,7 +15,7 @@
 
 <div id="technologies">
   <h2>🔨 Skills</h2>
-  <img src="https://skillicons.dev/icons?i=js,ts,go,deno,html,css,nodejs,vue,nuxtjs,adonis,postgres,redis,mongodb,prisma,postman,git" alt"skills"
+  <img src="https://skillicons.dev/icons?i=js,ts,go,deno,html,css,nodejs,vue,nuxtjs,adonis,postgres,redis,mongodb,prisma,git" alt"skills"
 </div>
 
 <div id="informations">
