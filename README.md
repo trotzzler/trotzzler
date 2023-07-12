@@ -20,6 +20,6 @@
 
 <div id="informations">
   <h2>🌟 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trotzzlerborea&layout=compact&theme=tokyonight" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trotzzler&layout=compact&theme=tokyonight" alt="Top languages">
 </div>
 </div>
